@@ -126,6 +126,24 @@
         "zany"
       ],
       "id": "12"
+    },
+    {
+      "name": "Marty",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Marty",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
